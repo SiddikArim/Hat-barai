@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.image{
+    background-image: url(img/GettyImages-157305529-975x650.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+   
+}
+.header {
+    text-align: center;
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+}
+#head {
+    text-align: center;
+	padding-top: 250px;
+    color: burlywood;
+}
