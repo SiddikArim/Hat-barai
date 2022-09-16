@@ -11,12 +11,28 @@ body{
 }
 .header {
     text-align: center;
-	padding-top: 50px;
+	padding-top: 30px;
 	color: white;
 	text-align: center;
 }
 #head {
     text-align: center;
-	padding-top: 250px;
-    color: burlywood;
+	padding-top: 350px;
+    color: navajowhite;
+    font-weight: bolder;
 }
+ a{
+    margin-left: 900px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(navy, purple);
+    padding: 10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
+ }
+
+ #second{
+    text-align: center;
+    margin-top: 150px;
+ }
